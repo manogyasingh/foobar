@@ -1,4 +1,4 @@
-##Gearing Up for Destruction
+#Gearing Up for Destruction
 
 As Commander Lambda's personal assistant, you've been assigned the task of configuring the LAMBCHOP doomsday
 device's axial orientation gears. It should be pretty simple -- just add gears to create the appropriate rotation
@@ -38,6 +38,7 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
  -- Java cases --
+
  Input:
  *     Solution.solution({4, 17, 50})
  
@@ -50,7 +51,9 @@ Note that it may also be run against hidden test cases not shown here.
  Output:
  *     12,1
  
+
  -- Python cases --
+
 Input:
 *     solution.solution([4, 30, 50])
 
