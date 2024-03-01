@@ -1,4 +1,4 @@
-#Gearing Up for Destruction
+## Gearing Up for Destruction
 
 As Commander Lambda's personal assistant, you've been assigned the task of configuring the LAMBCHOP doomsday
 device's axial orientation gears. It should be pretty simple -- just add gears to create the appropriate rotation
