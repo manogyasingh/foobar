@@ -1,2 +1,3 @@
-# foobar
-Solutions of the challenges I got on Google Foobar
+# Solutions from Google's Foobar challenge
+
+foobar is (well known) secret hiring challenge by Google. this repo contains my solutions to the questions I was asked in it
