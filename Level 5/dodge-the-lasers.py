@@ -9,7 +9,7 @@
 ##  {here, nsum is sum of all natural numbers <=n}{2+sqrt(2) is the rayleigh's complement of sqrt(2)}                     ##
 ##  =nsum(floor(sqrt(2)*n))-sum(2*i for i in range (sqrt(2)*n/(2+sqrt(2))))-func(sqrt(2)*n/(2+sqrt(2)))                   ##
 ##                                                                                                                        ##
-##  which has been implemented below                                                                                      ##
+##  this exponentially decreases the length of the loop woth each operation, yeilding a time complexity of O(log(n))      ##
 ############################################################################################################################
 
 r=4142135623730950488016887242096980785696718753769480731766797379907324784621070388503875343276415727
